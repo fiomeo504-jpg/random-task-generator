@@ -1,6 +1,24 @@
+# Python
 __pycache__/
 *.pyc
-tasks.json
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (опционально — если не хотите хранить данные в репозитории)
+# diary_data.json
+
+# OS
 .DS_Store
-venv/
-env/
+Thumbs.db
