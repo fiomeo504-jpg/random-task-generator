@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2026-04-28",
+        "temperature": 18.5,
+        "description": "Солнечно, небольшой ветер",
+        "precipitation": false
+    },
+    {
+        "date": "2026-04-29",
+        "temperature": 12.0,
+        "description": "Пасмурно, сыро",
+        "precipitation": true
+    },
+    {
+        "date": "2026-04-30",
+        "temperature": 8.5,
+        "description": "Дождь, холодно",
+        "precipitation": true
+    },
+    {
+        "date": "2026-05-01",
+        "temperature": 21.0,
+        "description": "Жарко, ясно",
+        "precipitation": false
+    },
+    {
+        "date": "2026-05-02",
+        "temperature": 14.0,
+        "description": "Переменная облачность",
+        "precipitation": false
+    }
+]
